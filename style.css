@@ -153,3 +153,31 @@ table {
   background: white;
   left: 145px;
 }
+
+.start {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  margin: 0;
+  padding: 2rem 0;
+  text-align: center;
+  z-index: 200;
+  color: #fff;
+  font-size: 1.5rem;
+  background: black;
+}
+.score {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  padding: 1rem 0;
+  text-align: center;
+  z-index: 200;
+  color: skyblue;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  font-weight: 500;
+  background: black;
+}
